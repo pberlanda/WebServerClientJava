@@ -1,3 +1,4 @@
+&copy Matteo Magrin versione originale
 Il programma Server crea un web server.
 E' possibile accedere al web server da un client, un dispositivo qualsiasi, semplicemente mettendo l'indirizzo IP del webserver nel browser.
 C'è anche il programma client. Deve essere lanciato DOPO il programma server e bisogna specificare l'indirizzo del server.
